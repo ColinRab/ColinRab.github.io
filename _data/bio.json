@@ -47,35 +47,24 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "MS Office",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Google Suite",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Finance & ITM (expected Spring, 2022)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2018-08-01",
       "endDate": "Present",
       "gpa": "",
       "courses": [
